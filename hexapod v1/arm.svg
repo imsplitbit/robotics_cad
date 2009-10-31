@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<svg width="116mm" height="29mm" viewBox="0 0 116 29" version="1.1"
+xmlns="http://www.w3.org/2000/svg" style="stroke-linecap:round">
+  <path d="M17.4169,26.8228 A187.861,187.861 0 0,1 98.8244,26.9074 " style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none" />
+  <path d="M16.6331,1.16591 A190.458,190.458 0 0,0 99.1627,1.26663 " style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none" />
+  <path d="M16.6255,1.16619 A13.1523,13.1523 0 1,0 17.4772,26.8168 " style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none" />
+  <path d="M99.1628,1.26659 A13.1386,13.1386 0 1,1 98.8261,26.9006 " style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none" />
+  <ellipse cx="101.871" cy="14.1631" rx="2.53892" ry="2.53892" style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none;"/>
+  <ellipse cx="101.871" cy="7.05493" rx="1.52359" ry="1.52359" style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none;"/>
+  <ellipse cx="109.419" cy="14.1293" rx="1.52359" ry="1.52359" style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none;"/>
+  <ellipse cx="101.871" cy="21.6185" rx="1.52359" ry="1.52359" style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none;"/>
+  <ellipse cx="94.2969" cy="14.1293" rx="1.52359" ry="1.52359" style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none;"/>
+  <ellipse cx="14.1822" cy="13.9136" rx="2.53892" ry="2.53892" style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none;"/>
+  <ellipse cx="14.1822" cy="6.8054" rx="1.52359" ry="1.52359" style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none;"/>
+  <ellipse cx="21.7306" cy="13.8798" rx="1.52359" ry="1.52359" style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none;"/>
+  <ellipse cx="14.1822" cy="21.3689" rx="1.52359" ry="1.52359" style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none;"/>
+  <ellipse cx="6.60842" cy="13.8798" rx="1.52359" ry="1.52359" style="stroke:rgb(165,71,71);stroke-width:0.25;fill:none;"/>
+</svg>
